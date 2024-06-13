@@ -1,7 +1,7 @@
 Hey there! My name is Marina
 <picture>
- <source media="(prefers-color-scheme: light)" srcset="(https://tenor.com/ru/view/hello-bear-gif-13207424737824225380)">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="https://tenor.com/ru/view/hello-bear-gif-13207424737824225380">
+ <img alt="bear waving hello" src="https://tenor.com/ru/view/hello-bear-gif-13207424737824225380">
 </picture>
 - 🔭 I stidued Geophysics in Russia but life brought me to Lithuania and work in Medical translations field
 - 🌱 I’m currently learning Data Analytics
