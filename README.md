@@ -3,7 +3,7 @@ __Hey there!__ My name is Marina
 ![giphy](https://github.com/marinamikh/marinamikh/assets/120615415/01f25722-2573-40eb-8d28-520c53f9b7d0)
 
 
-- 🔭 I stidued Geophysics in Russia but life brought me to Lithuania and work in Medical translations field
+- 🔭 I studied Geophysics in Russia but life brought me to Lithuania and work in Medical translations field
 - 🌱 I’m currently learning Data Analytics
 - 👯 I'm a fan of yoga, historical movies and handmade arts
 - 💬 Ask me anything about gardening or medicine✨
