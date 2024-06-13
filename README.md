@@ -8,7 +8,7 @@ __Hey there!__ My name is Marina
 - 👯 I'm a fan of yoga, historical movies and handmade arts
 - 💬 Ask me anything about gardening or medicine✨
 - 📫 __How to reach me:__    [E-mail](marishkamisha@gmail.com)               |
-|  [LinkedIn](www.linkedin.com/in/marina-mikhailova-b41a6b312)          |
+|  [LinkedIn](https://www.linkedin.com/in/marina-mikhailova-b41a6b312/)          |
 |     [Facebook](https://www.facebook.com/marina.mikhailova.520/)               |
 
 <!--
