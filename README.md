@@ -1,6 +1,6 @@
 Hey there! My name is Marina
 <picture>
- <source media="(prefers-color-scheme: light)" srcset="<div class="tenor-gif-embed" data-postid="13207424737824225380" data-share-method="host" data-aspect-ratio="1.86441" data-width="100%"><a href="https://tenor.com/view/hello-bear-gif-13207424737824225380">Hello Bear GIF</a>from <a href="https://tenor.com/search/hello+bear-gifs">Hello Bear GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
+ <source media="(prefers-color-scheme: light)" srcset="https://tenor.com/ru/view/hello-bear-gif-13207424737824225380">
  <img alt="bear waving hello" src="https://tenor.com/ru/view/hello-bear-gif-13207424737824225380">
 </picture>
 
