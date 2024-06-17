@@ -7,7 +7,7 @@ __Hey there!__ My name is Marina
 - 🌱 I’m currently learning Data Analytics
 - 👯 I'm a fan of yoga, historical movies and handmade arts
 - 💬 Ask me anything about gardening or medicine✨
-- 📫 __How to reach me:__    [E-mail](https://mail.google.com/mail/u/MARISHKAMISHA@GMAIL.COM/#all/YOUR_EMAIL_ID)               |
+- 📫 __How to reach me:__    Marishkamisha@gmail.com              |
 |  [LinkedIn](https://www.linkedin.com/in/marina-mikhailova-b41a6b312/)          |
 |     [Facebook](https://www.facebook.com/marina.mikhailova.520/)               |
 
