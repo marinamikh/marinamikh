@@ -4,7 +4,6 @@ __Hey there!__ My name is Marina, I live in Vilnius, Lithuania
 
 
 - 🔭 I studied Geophysics but life brought me to work in Medical translations field
-- 🌱 I’m currently learning Data Analytics
 - 👯 I'm a fan of yoga, historical movies and handmade arts
 - 💬 Ask me anything about gardening or medicine✨
 - 📫 __How to reach me:__    Marishkamisha@gmail.com              |
